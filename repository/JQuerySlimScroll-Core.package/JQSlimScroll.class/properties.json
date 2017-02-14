@@ -1,0 +1,14 @@
+{
+	"category" : "JQuerySlimScroll-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JQSlimScroll",
+	"pools" : [
+		 ],
+	"super" : "JQWidget",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "JQuerySlimScroll-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JQSlimScrollExample",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

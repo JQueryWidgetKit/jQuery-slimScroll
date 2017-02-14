@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfJQuerySlimScroll",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfJQuerySlimScroll",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

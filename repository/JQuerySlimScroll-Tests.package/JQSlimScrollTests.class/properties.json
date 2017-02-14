@@ -1,0 +1,14 @@
+{
+	"category" : "JQuerySlimScroll-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JQSlimScrollTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
