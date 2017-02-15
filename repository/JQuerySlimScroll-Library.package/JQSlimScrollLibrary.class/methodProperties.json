@@ -2,4 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"jqueryslimscrollJs" : "DataCurator 02/14/2017 15:19",
+		"jqueryslimscrollJsContent" : "DataCurator 02/14/2017 15:19",
+		"jqueryslimscrollminJs" : "DataCurator 02/14/2017 15:19",
+		"jqueryslimscrollminJsContent" : "DataCurator 02/14/2017 15:19",
+		"selectorsToInclude" : "jupiter 02/14/2017 15:21" } }
